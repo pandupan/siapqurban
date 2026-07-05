@@ -1,19 +1,22 @@
-# 🐑 SiapQurban
+# 🐑 SiapQurban — Platform Manajemen Hewan Qurban
 
-Platform **manajemen hewan qurban** yang memudahkan proses pendataan, pemesanan, dan distribusi hewan qurban.
+Platform **manajemen hewan qurban** yang akan memudahkan proses pendataan, pemesanan, dan distribusi hewan qurban secara digital. Dibangun dengan Next.js untuk pengalaman yang cepat dan responsif.
 
-## ✨ Fitur
+## ✨ Visi Fitur
 
-- **Pendataan Hewan** — Kelola data hewan qurban (sapi, kambing)
-- **Pemesanan** — Proses pemesanan hewan qurban
-- **Distribusi** — Catat distribusi daging qurban
-- **Laporan** — Rekap data qurban
+- **Pendataan Hewan** — Kelola data hewan qurban (sapi, kambing, domba)
+- **Pemesanan Online** — Proses pemesanan hewan qurban
+- **Distribusi Terkelola** — Catat distribusi daging qurban ke penerima
+- **Laporan & Rekap** — Ringkasan data qurban per periode
+- **Dashboard Admin** — Monitoring keseluruhan proses
 
 ## 🛠️ Tech Stack
 
-- **Next.js** — React framework
-- **TypeScript** — Type safety
-- **Tailwind CSS** — Styling
+| Kategori | Teknologi |
+|----------|-----------|
+| **Framework** | Next.js (App Router) |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
 
 ## 🚀 Cara Menjalankan
 
